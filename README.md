@@ -7,7 +7,7 @@ I really enjoy working on silly projects for a silly amount of hours to fix a
 silly daylife problem that's not that annoying at all. But meeeh, I just enjoy
 it 🙃. And when I'm not messing arround, I drink coffee ☕
 
-- 🔭  I'm currently working on a community trivia game for a french streamer ➡️ &nbsp;<a href="https://twitch.tv/ponce" target="_blank">Ponce</a>
+- 🔭  I'm currently working on a community trivia game for the french streamer <a href="https://twitch.tv/ponce" target="_blank">Ponce</a>
 - 🌱 I’m currently learning Typescript and Deno
 - ⚡ Favorite techs : VueJs &bull; NuxtJs &bull; TailwindCSS &bull; Node &bull; Mongodb &bull; Ruby on Rails
 - 📫 How to reach me: `pgolfier.pro@gmail.com` or `Pedraal#9274` on Discord
