@@ -5,8 +5,8 @@ I'm a fullstack developer from France 🇫🇷 🥖 &nbsp;I love programming and
 tech stuff.
 
 I enjoy working on silly projects for a silly amount of time to fix a
-silly daylife problem that's not that annoying at all.
-it 🙃. <br>And when I'm not messing arround, I drink coffee ☕
+silly daylife problem that's not that annoying at all 🙃.
+<br>And when I'm not messing arround, I drink coffee ☕
 
 - 🔭  I'm currently working on a community trivia game for the french streamer <a href="https://twitch.tv/ponce" target="_blank">Ponce</a>
 - 🌱 I’m currently learning Typescript and Deno
