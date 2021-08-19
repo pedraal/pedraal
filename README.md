@@ -18,6 +18,8 @@ it 🙃. And when I'm not messing arround, I drink coffee ☕
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
+Week: 12 August, 2021 - 18 August, 2021
+
 TypeScript   19 hrs 54 mins  ██████████░░░░░░░░░░░░░░░   39.94 % 
 Ruby         18 hrs 8 mins   █████████░░░░░░░░░░░░░░░░   36.41 % 
 Slim         4 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
