@@ -19,7 +19,7 @@ silly daylife problem that's not that annoying at all 🙃.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Ruby         13 hrs 44 mins  ████████▒░░░░░░░░░░░░░░░░   33.67 % 
 TypeScript   10 hrs 38 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.05 % 
