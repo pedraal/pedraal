@@ -7,8 +7,8 @@ tech stuff.
 I enjoy working on silly projects for a silly amount of time to fix a silly problem 🙃
 
 - 🔭  I'm currently working on a community trivia game for the french streamer <a href="https://twitch.tv/ponce" target="_blank">Ponce</a>
-- 🌱 I’m currently learning Typescript and Deno
-- ⚡ Favorite techs : VueJs &bull; NuxtJs &bull; TailwindCSS &bull; Node &bull; Mongodb &bull; Ruby on Rails
+- 🌱 I’m currently learning blockchain and smart contract programming
+- ⚡ Favorite techs : VueJs &bull; NuxtJs &bull; TailwindCSS &bull; Deno &bull; Mongodb &bull; TypeScript
 - 📫 How to reach me: `pgolfier.pro@gmail.com` or `Pedraal#9274` on Discord
 
 <br>
