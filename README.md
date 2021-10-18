@@ -17,7 +17,7 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
 TypeScript   11 hrs 26 mins  █████████░░░░░░░░░░░░░░░░   36.56 % 
 Ruby         8 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.46 % 
