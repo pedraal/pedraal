@@ -17,7 +17,7 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
 Ruby         9 hrs 10 mins   █████████████▒░░░░░░░░░░░   52.93 % 
 Vue.js       3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 % 
