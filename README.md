@@ -17,7 +17,7 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 16 November, 2021 - 22 November, 2021
 
 Slim         16 hrs 42 mins  ███████░░░░░░░░░░░░░░░░░░   28.55 % 
 JavaScript   16 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   27.79 % 
