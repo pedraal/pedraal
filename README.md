@@ -18,14 +18,14 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-Rust         2 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.79 %
-JavaScript   36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Vue.js       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-YAML         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TOML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Rust         2 hrs 9 mins    ███████████████░░░░░░░░░░   60.57 %
+Vue.js       30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+TOML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
