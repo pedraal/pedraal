@@ -18,14 +18,14 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Vue.js                     10 hrs 13 mins  ████████████████▓░░░░░░░░   66.08 %
-JavaScript                 1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-TypeScript                 54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-JSON                       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Bash                       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Nginx configuration file   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Vue.js                     9 hrs 31 mins   ███████████████▓░░░░░░░░░   62.37 %
+JavaScript                 1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+TypeScript                 1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JSON                       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Nginx configuration file   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Docker                     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
