@@ -18,14 +18,14 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2022 - To: 26 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-Ruby         4 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
-TypeScript   4 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-ERB          4 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-JavaScript   1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-YAML         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Vue.js       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TypeScript   3 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+ERB          2 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Ruby         2 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Vue.js       1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+JavaScript   1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Bash         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
