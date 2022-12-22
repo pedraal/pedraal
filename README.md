@@ -18,14 +18,14 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-TypeScript   5 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.18 %
-Vue.js       1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-JSON         40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-XML          38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+TypeScript   5 hrs 51 mins   █████████████░░░░░░░░░░░░   52.49 %
+Vue.js       2 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
+JSON         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+XML          38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
