@@ -18,11 +18,11 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-TypeScript   1 hr 7 mins     █████████████████▒░░░░░░░   69.32 %
-Vue.js       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Other        14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+TypeScript   1 hr 5 mins     ████████████████████░░░░░   79.49 %
+Vue.js       15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
