@@ -18,7 +18,7 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
 Ruby            5 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.18 %
 ERB             3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
