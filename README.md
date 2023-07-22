@@ -18,13 +18,13 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 13 July 2023 - To: 20 July 2023
 
-Ruby         11 hrs 31 mins  █████████████░░░░░░░░░░░░   51.56 %
-ERB          5 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-JavaScript   1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-YAML         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-CSS          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Ruby         14 hrs 54 mins  █████████████▒░░░░░░░░░░░   52.98 %
+ERB          7 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
+YAML         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JavaScript   1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+CSS          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
