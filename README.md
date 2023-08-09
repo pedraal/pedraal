@@ -18,12 +18,13 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-JavaScript   3 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.74 %
-TypeScript   3 hrs 50 mins   ████████████▒░░░░░░░░░░░░   49.37 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript   4 hrs 26 mins   ████████████▓░░░░░░░░░░░░   50.66 %
+JavaScript   4 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   47.00 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
