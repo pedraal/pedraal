@@ -18,7 +18,7 @@ I enjoy working on silly projects for a silly amount of time to fix a silly prob
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
 TypeScript     9 hrs 51 mins   ██████████████▓░░░░░░░░░░   58.96 %
 Vue.js         2 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
